@@ -2,8 +2,6 @@
 layout: default
 title: About
 ---
-
-This is where you would but a short bio, and/or a description of your site. It also serves as an example of how to set up a standalone page. For example:
-
-<img src="/images/sunsetrider.png" class="right" />
-It's never too late to get the truth.
+A rider who is chasing the sunset.
+<!-- A coder who is learing to be good coder. -->
+<img src="/images/sunsetrider.png" class="" width="20%" height="20%" />
