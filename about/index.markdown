@@ -7,4 +7,3 @@ title: About
 
 A rider who is chasing the sunset.
 <!-- A coder who is learing to be good coder. -->
-
